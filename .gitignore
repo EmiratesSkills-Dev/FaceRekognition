@@ -1,0 +1,25 @@
+# Ignore files for ASP.NET Core API
+/ApiFaceRekognition/bin/
+/ApiFaceRekognition/obj/
+/ApiFaceRekognition/.vs/
+/ApiFaceRekognition/*.user
+/ApiFaceRekognition/*.suo
+/ApiFaceRekognition/appsettings.*.json
+/ApiFaceRekognition/appsettings.Development.json
+
+# Ignore files for Frontend (assuming React, Angular, or similar)
+/FrontFaceRekognition/node_modules/
+/FrontFaceRekognition/build/
+/FrontFaceRekognition/dist/
+/FrontFaceRekognition/.env
+/FrontFaceRekognition/.env.* 
+/FrontFaceRekognition/.next/
+/FrontFaceRekognition/.cache/
+/FrontFaceRekognition/yarn.lock
+/FrontFaceRekognition/package-lock.json
+
+# General
+*.log
+.DS_Store
+Thumbs.db
+.env
